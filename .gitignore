@@ -1,0 +1,15 @@
+# Dataset (too large for GitHub; download from Kaggle)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
